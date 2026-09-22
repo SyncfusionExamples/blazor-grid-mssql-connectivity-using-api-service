@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to connect a Syncfusion Blazor DataGrid to Microsoft SQL Server through a Web API service. The solution consists of two applications: a Blazor DataGrid client (`GridMSSql`) and an API service (`MyWebService`) that communicates with the database. The DataGrid retrieves data and performs CRUD operations through the API layer using the Syncfusion DataManager URL adaptor pattern, providing a practical reference for database-driven Blazor applications.
+This sample demonstrates how to connect a Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) to Microsoft SQL Server through a Web API service. The solution consists of two applications: a Blazor DataGrid client (`GridMSSql`) and an API service (`MyWebService`) that communicates with the database. The DataGrid retrieves data and performs CRUD operations through the API layer using the Syncfusion DataManager URL adaptor pattern, providing a practical reference for database-driven Blazor applications.
 
 ## Key Features
 
